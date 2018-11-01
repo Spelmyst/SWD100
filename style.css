@@ -1,0 +1,31 @@
+html
+{
+	text-align: center;
+	background-color: cadetblue;
+}
+
+img 
+{
+	width: 90px;
+	height: 90px;
+	float: left;
+}
+
+#postFullName
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+#idCard
+{
+	margin: 80px auto;
+	border: 5px solid black;
+	height: 14em;
+	width: 25em;
+	border-radius: 25px;
+	text-align: left;
+	font-family: 'Audiowide', cursive;
+	background-color: lightpink;
+	padding: 5px; 
+}
